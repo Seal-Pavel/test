@@ -10,8 +10,6 @@ html, body {
 body {
     display: flex;
     justify-content: center;
-    background: rgb(194 206 219);
-    background: linear-gradient(205deg, rgb(238 233 245) 0%, rgb(30 34 42) 100%);
     margin: 0;
     font-family:'poppins', sans-serif;
 }
@@ -50,9 +48,9 @@ body {
     height: var(--init-size);
     border-radius: 50%;
     overflow: hidden; 
-    box-shadow: -40px 40px 30px 10px rgb(0, 0, 0, 0.4), 
-        -80px 80px 40px 10px rgb(0, 0, 0, 0.6), 
-        -120px 120px 80px 10px rgb(0, 0, 0, 0.6); 
+    box-shadow: -4px 4px 3px 1px rgb(0, 0, 0, 0.1), 
+        -8px 8px 4px 1px rgb(0, 0, 0, 0.6), 
+        -12px 12px 8px 1px rgb(0, 0, 0, 0.6); 
 }
 .outer-rim-2 {
     width: calc(var(--init-size) * 0.97);

@@ -27,10 +27,6 @@ body {
     width: 100%;
     opacity: 0.1;
 }
-#noise-rect {
-    width: 100vw;
-    height: 100vh;
-}
 
 .outer-rim,
 .outer-rim *{

@@ -431,7 +431,6 @@ body {
 .loading-bar > div {
     --color-1: rgba(152, 243, 248, 0.9);
     --color-2: rgba(0,0,0, 0.7);
-    background: var(--color-1);
     width: 21.9%;
     height: 50%;
     transition: all 0.2s ease-in-out;

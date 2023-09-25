@@ -48,9 +48,9 @@ body {
     height: var(--init-size);
     border-radius: 50%;
     overflow: hidden; 
-    box-shadow: -4px 4px 3px 1px rgb(0, 0, 0, 0.1), 
-        -8px 8px 4px 1px rgb(0, 0, 0, 0.6), 
-        -12px 12px 8px 1px rgb(0, 0, 0, 0.6); 
+    box-shadow: -3px 3px 2px 1px rgb(0, 0, 0, 0.1), 
+        -6px 6px 3px 1px rgb(0, 0, 0, 0.4), 
+        -10px 10px 7px 1px rgb(0, 0, 0, 0.4); 
 }
 .outer-rim-2 {
     width: calc(var(--init-size) * 0.97);
